@@ -1,1 +1,1 @@
-{\n  \"name\": \"express-app\",\n  \"version\": \"1.0.0\",\n  \"description\": \"A basic Node.js/Express application\",\n  \"main\": \"index.js\",\n  \"scripts\": {\n    \"start\": \"node index.js\"\n  },\n  \"dependencies\": {\n    \"express\": \"^4.17.1\"\n  }\n}
+{"name": "colorstatus", "version": "1.0.0", "description": "Real-time user status dashboard with Socket.io", "main": "index.js", "scripts": {"start": "node index.js"}, "dependencies": {"express": "^4.18.2", "socket.io": "^4.5.4"}}
