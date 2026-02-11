@@ -1,0 +1,3 @@
+run = "npm install && npm start"
+entrypoint = "index.js"
+env NODE_ENV = "development"
